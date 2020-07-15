@@ -24,7 +24,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HudWeaponLowAmmoImage"
-		"xpos"			"4"
+		"xpos"			"9999"
 		"xpos_minmode"	"28"
 		"ypos"			"0"
 		"ypos_minmode"	"7"
@@ -92,7 +92,7 @@
 		"font"			"RoboMedium18"
 		"font_lodef"	"HudFontMedium"
 		"font_minmode"	"HudFontSmall"
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"36 255 255 255"
 		"xpos"			"65"
 		"xpos_minmode"	"65"
 		"ypos"			"8"
