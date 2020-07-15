@@ -3029,6 +3029,8 @@ Scheme
 			}
 		}
 
+		//RoboRegular
+
 		"RoboRegular12"
 		{
 			"1"
@@ -3088,6 +3090,8 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		//RoboLight
 
 		"RoboLight12"
 		{
@@ -3149,6 +3153,8 @@ Scheme
 			}
 		}
 
+		//RoboMedium
+
 		"RoboMedium12"
 		{
 			"1"
@@ -3209,6 +3215,8 @@ Scheme
 			}
 		}
 
+		//RoboBold
+
 		RoboBold12
 		{
 			"1"
@@ -3268,6 +3276,8 @@ Scheme
 				"antialias" "1"
 			}
 		}
+
+		//RoboBlack
 
 		"RoboBlack12"
 		{
