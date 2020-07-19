@@ -45,9 +45,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabelShadow"
-		"xpos"			"74"
+		"xpos"			"-2"
 		"xpos_minmode"			"11"
-		"ypos"			"10"
+		"ypos"			"-2"
 		"ypos_minmode"			"11"
 		"zpos"			"1"
 		"wide"			"90"
@@ -63,6 +63,10 @@
 		"brighttext"	"0"
 		"font"			"RoboMedium42"
 		"fgcolor_override"		"0 0 0 255"
+
+		"pin_to_sibling"	"ChargeLabel"
+		"pin_corner_to_sibling"	"PIN_TOPLEFT"
+		"pin_to_sibling_corner"	"PIN_TOPLEFT"
 	}
 
 	"IndividualChargesLabel"
