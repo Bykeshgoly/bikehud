@@ -10,6 +10,6 @@
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
 		"delta_item_font"		"RoboBold18"
-		"delta_item_font_big"	"RoboBold24"
+		"delta_item_font_big"	"RoboBold18"
 	}
 }
