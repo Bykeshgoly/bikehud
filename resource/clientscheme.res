@@ -3237,6 +3237,16 @@ Scheme
 			}
 		}
 
+		"RoboBold20"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+
 		"RoboBold24"
 		{
 			"1"
