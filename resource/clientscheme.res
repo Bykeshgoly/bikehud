@@ -3227,6 +3227,17 @@ Scheme
 			}
 		}
 
+
+		"RoboBold16"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+
 		"RoboBold18"
 		{
 			"1"
@@ -3234,6 +3245,17 @@ Scheme
 				"name"		"Roboto Bold"
 				"tall"		"18"
 				"antialias" "1"
+			}
+		}
+
+		"RoboBoldOutline18"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"18"
+				"antialias" "1"
+				"outline" "1"
 			}
 		}
 
