@@ -3093,6 +3093,16 @@ Scheme
 
 		//RoboLight
 
+		"RoboLight8"
+		{
+			"1"
+			{
+				"name"		"Roboto Light"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+
 		"RoboLight12"
 		{
 			"1"
@@ -3255,7 +3265,18 @@ Scheme
 				"name"		"Roboto Bold"
 				"tall"		"18"
 				"antialias" "1"
-				"outline" "1"
+				"outline" 	"1"
+			}
+		}
+
+		"RoboBoldOutline20"
+		{
+			"1"
+			{
+				"name"		"Roboto Bold"
+				"tall"		"20"
+				"antialias" "1"
+				"outline" 	"1"
 			}
 		}
 
